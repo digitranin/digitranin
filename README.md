@@ -105,7 +105,7 @@ Karnataka, India
 **Innovation Park Drive**  
 **Oro Valley, AZ 85755, USA**
 📧 sales@digitranin.com  
-📞 ++1 (623) 212-6015
+📞 +1 (623) 212-6015
 
 </td>
 </tr>
