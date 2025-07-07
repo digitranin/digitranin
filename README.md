@@ -93,6 +93,7 @@ From concept to deployment, we provide end-to-end digital solutions that transfo
 <td width="50%" valign="top">
 
 ### 🇮🇳 India Office
+**Innovative Minds**
 **Devi Kripa, Manipal - 576104**  
 Karnataka, India  
 📧 info@digitranin.com
@@ -101,9 +102,10 @@ Karnataka, India
 <td width="50%" valign="top">
 
 ### 🇺🇸 USA Office
-**Minneapolis, MN, USA**  
+**Innovation Park Drive**  
+**Oro Valley, AZ 85755, USA**
 📧 sales@digitranin.com  
-📞 +1 (612) 445-0260
+📞 ++1 (623) 212-6015
 
 </td>
 </tr>
