@@ -9,8 +9,7 @@
   
   [![Website](https://img.shields.io/badge/Website-digitranin.com-blue?style=for-the-badge&logo=google-chrome)](https://digitranin.com)
   [![Email](https://img.shields.io/badge/Email-info@digitranin.com-red?style=for-the-badge&logo=gmail)](mailto:info@digitranin.com)
-  [![Phone](https://img.shields.io/badge/Phone-+1%20(612)%20445--0260-green?style=for-the-badge&logo=phone)](tel:+16124450260)
-  
+  [![Phone](https://img.shields.io/badge/Phone-+1%20(623)%20212--6015-green?style=for-the-badge&logo=phone)](tel:+16232126015)
 </div>
 
 ## 📊 Company Stats
@@ -116,6 +115,6 @@ Ready to transform your ideas into reality? We'd love to hear about your project
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Get%20Quote-info@digitranin.com-blue?style=for-the-badge&logo=mail.ru)](mailto:info@digitranin.com)
-  [![Schedule Call](https://img.shields.io/badge/Schedule%20Call-+1%20(612)%20445--0260-green?style=for-the-badge&logo=phone)](tel:+16124450260)
+  [![Schedule Call](https://img.shields.io/badge/Schedule%20Call-+1%20(623)%20212--6015-green?style=for-the-badge&logo=phone)](tel:+16232126015)
   
 </div>
