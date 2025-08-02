@@ -17,9 +17,9 @@
   <table>
     <tr>
       <td align="center"><strong>5+</strong><br/>Years Experience</td>
-      <td align="center"><strong>20+</strong><br/>Projects Delivered</td>
-      <td align="center"><strong>10+</strong><br/>Happy Clients</td>
-      <td align="center"><strong>6+</strong><br/>Industries Served</td>
+      <td align="center"><strong>21+</strong><br/>Happy Clients</td>
+      <td align="center"><strong>36+</strong><br/>Projects Delivered</td>
+      <td align="center"><strong>$400,000+</strong><br/>Cost Savings</td>
     </tr>
   </table>
 </div>
